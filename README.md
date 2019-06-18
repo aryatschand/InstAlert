@@ -17,18 +17,18 @@ Challenges we ran into -
 - Fully automating the sending of an SMS message using Twilio
 - Communicating effectively as a team and sharing files in a way that enables all group members immediate and convenient access to edit them
 
-Accomplishments that we're proud of
+Accomplishments that we're proud of - 
 - Completely following through on a higher quality app
 - Working in an efficient and timely manner
 
-What we learned
+What we learned - 
 - How to create an application using Xcode and Swift
 - How to use the cocoapod modules
 - How to acquire the location of the user and convert it from coordinate form to a real-world address
 - How to allow the user to create a contact which they can contact via SMS or email
 - How to conveniently share files using GitHub with our group.
 
-What's next for InstAlert
+What's next for InstAlert - 
 - Make it so that the user doesn't have to enter an emergency contact
 - App automatically parses through a database to find nearest emergency responder and their contact information
 - Expand the types of natural disasters that are currently covered in the app
